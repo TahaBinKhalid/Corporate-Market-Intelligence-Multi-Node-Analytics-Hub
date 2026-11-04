@@ -288,11 +288,36 @@ MIT © 2026 NexusAI Contributors. See [LICENSE](LICENSE) for details.
 
 ---
 
-## 📬 Contact
+⚙️ Quick Start & Installation
+1. Clone the Repository
+Bash
+git clone [https://github.com/TahaBinKhalid/nexus-ai-market-hub.git](https://github.com/TahaBinKhalid/nexus-ai-market-hub.git)
+cd nexus-ai-market-hub
+2. Set Up a Virtual Environment
+Bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+3. Install Dependencies
+Bash
+pip install -r requirements.txt
+4. Run the Application
+Launch the Streamlit interface locally:
 
-- **Issues**: [github.com/your-org/nexus-ai-market-hub/issues](https://github.com/your-org/nexus-ai-market-hub/issues)
-- **Discussions**: [github.com/your-org/nexus-ai-market-hub/discussions](https://github.com/your-org/nexus-ai-market-hub/discussions)
-- **Email**: team@nexusai.dev
+Bash
+streamlit run app.py
+Open your browser and navigate to http://localhost:8501.
+
+💡 Use Cases
+Executive Financial Analysis: Monitoring real-time stock movements and quarterly valuation metrics.
+
+Client Portfolios: Showcasing high-end UI/UX engineering combined with complex Python data pipelines on Upwork and Fiverr.
+
+Algorithmic Trading & Research: Evaluating asset volatility and trend patterns using volumetric 3D projections.
+
+👤 Author
+Developed by Muhammad Taha Bin Khalid
+
+AI Software Engineer & Full-Stack Developer
 
 ---
 
